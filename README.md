@@ -1,11 +1,10 @@
 ### OPEN SOURCE 4EVR! 🙌
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/Lamicc)
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/mandichen)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamicc)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandichen)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**Lamicc/Lamicc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
